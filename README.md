@@ -10,7 +10,7 @@
 ![SerdarHelli's GitHub stats](https://github-readme-stats.vercel.app/api?username=BestSithInEU&hide=contribs,prs)
 
 
-- 🎓 I am currently a Master's degree student in Data Science 
+- 🎓 I am currently a Master's degree student in MSc. Computer Science 
 - 🔭 I’m currently working on AI - Deep Learning , Image Processing   and Machine Learning 
 - 💬 Ask me about Python, C++, C#, AI, Qt & Docker in the future! 🐍
 - 👨‍💻 All of my projects and my papers are available at **https://bestsithineu.github.io/** and **https://linktr.ee/batuhanedguer**
