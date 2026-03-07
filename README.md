@@ -77,7 +77,7 @@ class BatuhanEdguer:
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,ts,pytorch,tensorflow,fastapi,docker,kubernetes,postgresql,redis,mongodb,linux,git,latex&perline=8" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,rust,java,ts,pytorch,tensorflow,fastapi,docker,kubernetes,postgresql,redis,mongodb,linux,git,latex&perline=8" alt="Tech Stack"/>
 </p>
 
 <details>
@@ -87,7 +87,7 @@ class BatuhanEdguer:
 | Category | Technologies |
 |----------|-------------|
 | **Machine Learning** | PyTorch, TensorFlow, Keras, HuggingFace, scikit-learn, XGBoost, LightGBM, vLLM |
-| **Languages** | Python, C/C++, Java, TypeScript, SQL |
+| **Languages** | Python, C/C++, Rust, Java, TypeScript, SQL |
 | **ML Infrastructure** | Docker, MLflow, FastAPI, Celery, Git, Linux, LaTeX |
 | **Parallel Computing** | CUDA, OpenMP, MPI |
 | **Databases** | PostgreSQL, Redis, MongoDB, Qdrant |
