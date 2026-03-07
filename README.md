@@ -1,8 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=180&section=header&text=Batuhan%20Edg%C3%BCer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<p align="center">
+  <img src="./banner.svg" width="100%" alt="Batuhan Edgüer — AI Researcher & ML Engineer"/>
+</p>
 
 <p align="center">
   <a href="https://bestsithineu.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e96443&center=true&vCenter=true&random=false&width=580&lines=AI+Researcher+%7C+ML+Engineer;Meta-Learning+%7C+LLMs+%7C+Deep+RL;M.Sc.+CS+%40+Yeditepe+University;Building+scalable+ML+pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=480&lines=Meta-Learning+%7C+LLMs+%7C+Deep+RL;Building+scalable+ML+pipelines;M.Sc.+CS+%40+Yeditepe+University" alt="Typing SVG" />
   </a>
 </p>
 
@@ -25,7 +27,7 @@
   <a href="mailto:batuhanedguer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bestsithineu&style=for-the-badge&color=e96443" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bestsithineu&style=for-the-badge&color=6366F1" alt="Profile views"/>
 </p>
 
 ---
@@ -107,7 +109,7 @@ class BatuhanEdguer:
     <td width="50%">
       <h3 align="center">Streak Stats</h3>
       <p align="center">
-        <img src="https://github-readme-streak-stats-d9ebd6g13-bestsithineus-projects.vercel.app/?user=BestSithInEU&theme=synthwave&hide_border=true" alt="Streak Stats"/>
+        <img src="https://github-readme-streak-stats-nine-orpin.vercel.app/?user=BestSithInEU&theme=synthwave&hide_border=true" alt="Streak Stats"/>
       </p>
     </td>
   </tr>
@@ -121,7 +123,7 @@ class BatuhanEdguer:
     <td width="50%">
       <h3 align="center">Trophies</h3>
       <p align="center">
-        <img src="https://github-profile-trophy-3fwjpnh5l-bestsithineus-projects.vercel.app/?username=BestSithInEU&theme=discord&no-frame=true&no-bg=true&column=3&row=2" alt="Trophies"/>
+        <img src="https://github-profile-trophy-seven-beta.vercel.app/?username=BestSithInEU&theme=synthwave&no-frame=true&no-bg=true&column=3&row=2" alt="Trophies"/>
       </p>
     </td>
   </tr>
@@ -141,4 +143,4 @@ class BatuhanEdguer:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=80&section=footer"/>
