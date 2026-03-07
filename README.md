@@ -1,13 +1,13 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Batuhan%20Edg%C3%BCer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=180&section=header&text=Batuhan%20Edg%C3%BCer&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <p align="center">
   <a href="https://bestsithineu.github.io">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=580&lines=AI+Researcher+%7C+ML+Engineer;Meta-Learning+%7C+LLMs+%7C+Deep+RL;M.Sc.+CS+%40+Yeditepe+University;Building+scalable+ML+pipelines" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=e96443&center=true&vCenter=true&random=false&width=580&lines=AI+Researcher+%7C+ML+Engineer;Meta-Learning+%7C+LLMs+%7C+Deep+RL;M.Sc.+CS+%40+Yeditepe+University;Building+scalable+ML+pipelines" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/batuhan-edg%C3%BCer-07714b91/">
+  <a href="https://www.linkedin.com/in/batuhan-edguer/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://bestsithineu.github.io">
@@ -25,7 +25,7 @@
   <a href="mailto:batuhanedguer@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=bestsithineu&style=for-the-badge&color=6C63FF" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=bestsithineu&style=for-the-badge&color=e96443" alt="Profile views"/>
 </p>
 
 ---
@@ -96,27 +96,43 @@ class BatuhanEdguer:
 
 ## GitHub Analytics
 
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=bestsithineu&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bestsithineu&layout=compact&langs_count=8&hide=html&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bestsithineu&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=bestsithineu&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="Trophies"/>
-  </a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center">GitHub Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-stats-three-ebon-96.vercel.app/api?username=BestSithInEU&show_icons=true&include_all_commits=true&count_private=true&theme=synthwave&hide_border=true" alt="GitHub Stats"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Streak Stats</h3>
+      <p align="center">
+        <img src="https://github-readme-streak-stats-d9ebd6g13-bestsithineus-projects.vercel.app/?user=BestSithInEU&theme=synthwave&hide_border=true" alt="Streak Stats"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Top Languages</h3>
+      <p align="center">
+        <img src="https://github-readme-stats-three-ebon-96.vercel.app/api/top-langs/?username=BestSithInEU&layout=compact&langs_count=8&hide=html&theme=synthwave&hide_border=true" alt="Top Languages"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Trophies</h3>
+      <p align="center">
+        <img src="https://github-profile-trophy-3fwjpnh5l-bestsithineus-projects.vercel.app/?username=BestSithInEU&theme=discord&no-frame=true&no-bg=true&column=3&row=2" alt="Trophies"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bestsithineu&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BestSithInEU&theme=synthwave-84&hide_border=true" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
@@ -125,4 +141,4 @@ class BatuhanEdguer:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:e96443,100:904e95&height=100&section=footer"/>
