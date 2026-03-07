@@ -143,4 +143,6 @@ class BatuhanEdguer:
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:EC4899&height=80&section=footer"/>
+<p align="center">
+  <img src="./footer.svg" width="100%" alt=""/>
+</p>
