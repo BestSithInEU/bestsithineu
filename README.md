@@ -24,7 +24,7 @@
   <a href="https://instagram.com/batuhanedguer">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:batuhanedguer@gmail.com">
+  <a href="mailto:recite_sterility797@addy.to">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <img src="https://komarev.com/ghpvc/?username=bestsithineu&style=for-the-badge&color=6366F1" alt="Profile views"/>
